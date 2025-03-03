@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ad641a1-c362-46f0-9fbc-e35e86dbdd0c/d5k1ezg-fad727f5-b0bf-4c7d-a776-9ea5472b020e.jpg/v1/fill/w_900,h_490,q_75,strp/tavern_bg_by_mrainbowwj-d5k1ezg.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yYWQ2NDFhMS1jMzYyLTQ2ZjAtOWZiYy1lMzVlODZkYmRkMGMvZDVrMWV6Zy1mYWQ3MjdmNS1iMGJmLTRjN2QtYTc3Ni05ZWE1NDcyYjAyMGUuanBnIiwid2lkdGgiOiI8PTkwMCIsImhlaWdodCI6Ijw9NDkwIn1dXX0.o9x_qOt_u_xkmKtlmJUrIK-8NSEBmnOA1RUUChONIAU');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+header, footer, main {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+h1, h2, p, ul, li {
+    color: white;
+}
+
+h2 {
+    color: gold;
+}
+
+.custom-style {
+    font-weight: lighter;
+    font-size: medium;
+    font-family: 'cursive', 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+  }
+  
+
+        
