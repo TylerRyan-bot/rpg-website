@@ -34,7 +34,8 @@ body {
     font-family: "Moon Dance", cursive;
     font-weight: 400;
     font-style: normal;
-    
+    margin: 50px;
+
 }
 
 header h1 {
@@ -52,4 +53,29 @@ body {
 h2 {
     text-decoration: underline;
   }
+
+  * {
+    font-size: 100%;
+    margin: 0;
+  line-height: 1;
+  box-sizing: border-box;
+    /* border: 1px solid red; */
+   }
+
+   h1, h2, h3 {
+    margin-bottom: 20px;
+  }
+
+  p {
+    margin: 15px 0;
+  }
+  
+  ul, ol {
+    margin: 15px 0;
+  }
+
+  img {
+    width: 35%;
+    height: auto; /* Maintain aspect ratio */
+}
 
